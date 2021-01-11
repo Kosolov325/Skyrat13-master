@@ -14,7 +14,7 @@
 // END_PREFERENCES
 
 // BEGIN_INCLUDE
-#include "_maps\boxstation.dm"
+#include "_maps\_basemap.dm"
 #include "code\_compile_options.dm"
 #include "code\world.dm"
 #include "code\__DEFINES\__512_compatibility_skyrat.dm"
