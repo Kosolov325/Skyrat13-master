@@ -1,0 +1,91 @@
+[2021-01-11 20:47:06.812] Starting up round ID .
+ - -------------------------
+[2021-01-11 20:47:06.881] ADMIN: Loading Banlist
+[2021-01-11 20:47:08.491] GAME: Saved mode is 'extended'
+[2021-01-11 20:47:25.700] GAME: Hierophant's Arena loaded at 191,88,6
+[2021-01-11 20:47:25.726] GAME: Blood-Drunk Miner (Guidance) loaded at 218,48,6
+[2021-01-11 20:47:25.750] GAME: Blood-Drunk Miner (Hunter) loaded at 129,109,6
+[2021-01-11 20:47:25.776] GAME: Blood-Drunk Miner loaded at 104,175,6
+[2021-01-11 20:47:25.805] GAME: King Goat Boss Ruin loaded at 119,49,6
+[2021-01-11 20:47:25.840] GAME: Rogue's Arena loaded at 78,86,6
+[2021-01-11 20:47:25.893] GAME: Sif's Sword loaded at 179,153,6
+[2021-01-11 20:47:25.904] GAME: Pulsating Tumor loaded at 181,137,6
+[2021-01-11 20:47:25.943] GAME: Ruin of Greed loaded at 37,166,6
+[2021-01-11 20:47:25.968] GAME: Summoning Ritual loaded at 199,69,6
+[2021-01-11 20:47:26.019] GAME: Dead God loaded at 174,40,6
+[2021-01-11 20:47:26.030] GAME: Ripley loaded at 166,139,6
+[2021-01-11 20:47:26.031] GAME: E1M1 loaded at 95,192,6
+[2021-01-11 20:47:26.040] GAME: Pulsating Tumor loaded at 193,184,6
+[2021-01-11 20:47:26.041] GAME: Biodome Winter loaded at 178,213,6
+[2021-01-11 20:47:26.083] GAME: Seed Vault loaded at 144,38,6
+[2021-01-11 20:47:26.117] GAME: Ruin of Wrath loaded at 29,196,6
+[2021-01-11 20:47:26.135] GAME: Fountain Hall loaded at 133,72,6
+[2021-01-11 20:47:30.863] GAME: Abandoned Teleporter loaded at 66,143,4
+[2021-01-11 20:47:30.896] GAME: Whiteship Dock loaded at 179,56,3
+[2021-01-11 20:47:30.970] GAME: Derelict 1 loaded at 166,158,3
+[2021-01-11 20:47:31.023] GAME: Strange Ship loaded at 90,180,7
+[2021-01-11 20:47:31.966] GAME: Ancient Space Station loaded at 71,53,4
+[2021-01-11 20:47:32.317] GAME: Survivalist Bunker loaded at 181,96,3
+[2021-01-11 20:47:32.368] GAME: Authorship loaded at 150,190,8
+[2021-01-11 20:47:32.598] GAME: Derelict Tradepost loaded at 120,195,7
+[2021-01-11 20:47:32.658] GAME: Roboticst Augmentation Facility loaded at 124,77,7
+[2021-01-11 20:47:32.718] GAME: Space Arcade loaded at 156,70,7
+[2021-01-11 20:47:32.793] GAME: NT Medical Ship loaded at 196,96,7
+[2021-01-11 20:47:32.892] GAME: Gondoland loaded at 140,139,4
+[2021-01-11 20:47:32.974] GAME: Hilbert Research Facility loaded at 28,207,3
+[2021-01-11 20:47:33.205] GAME: Syndicate Ambush loaded at 80,135,8
+[2021-01-11 20:47:33.326] GAME: DK Excavator 453 loaded at 129,147,7
+[2021-01-11 20:47:33.471] GAME: Space Hermit loaded at 183,170,4
+[2021-01-11 20:47:33.510] GAME: Dorm Roid loaded at 45,200,2
+[2021-01-11 20:47:33.533] GAME: Maze Roid loaded at 196,211,2
+[2021-01-11 20:47:33.545] GAME: Mineable Asteroid 1 loaded at 199,193,2
+[2021-01-11 20:47:33.569] GAME: Mineable Asteroid 4 loaded at 171,218,2
+[2021-01-11 20:47:33.600] GAME: Mineable Asteroid 2 loaded at 37,36,2
+[2021-01-11 20:47:33.642] GAME: Mineable Asteroid 5 loaded at 149,211,2
+[2021-01-11 20:47:33.654] GAME: Mineable Asteroid 1 loaded at 23,214,2
+[2021-01-11 20:47:33.679] GAME: Crab Roid loaded at 210,24,2
+[2021-01-11 20:47:33.718] GAME: Monitoring Roid loaded at 129,208,2
+[2021-01-11 20:47:33.748] GAME: Dead wizard Roid loaded at 59,23,2
+[2021-01-11 20:47:33.855] GAME: Box Singulo loaded at 96,49,2
+[2021-01-11 20:47:34.322] GAME: Public Mining Base loaded at 1,1,6
+[2021-01-11 20:47:42.445] GAME: [�Gygax] �Gygax created. (Ghost Cafe Outdoors (3, 210, 1))
+[2021-01-11 20:47:42.446] GAME: [�Gygax] �Gygax created. (Ghost Cafe Outdoors (4, 210, 1))
+[2021-01-11 20:47:42.448] GAME: [�Gygax] �Gygax created. (Ghost Cafe Outdoors (5, 210, 1))
+[2021-01-11 20:47:42.449] GAME: [�Gygax] �Gygax created. (Ghost Cafe Outdoors (6, 210, 1))
+[2021-01-11 20:47:42.450] GAME: [�Durand] �Durand created. (Ghost Cafe Outdoors (8, 210, 1))
+[2021-01-11 20:47:42.462] GAME: [�Durand] �Durand created. (Ghost Cafe Outdoors (8, 211, 1))
+[2021-01-11 20:47:42.474] GAME: [�Durand] �Durand created. (Ghost Cafe Outdoors (8, 212, 1))
+[2021-01-11 20:47:42.480] GAME: [�Durand] �Durand created. (Ghost Cafe Outdoors (8, 213, 1))
+[2021-01-11 20:47:56.862] GAME: [�APLU "Miner"] �APLU "Miner" created. (Lavaland Wastes (168, 141, 6))
+[2021-01-11 20:47:56.862] GAME: [�APLU "Miner"] The exosuit drill initialized. (Lavaland Wastes (168, 141, 6))
+[2021-01-11 20:47:56.863] GAME: [�APLU "Miner"] The hydraulic clamp initialized. (Lavaland Wastes (168, 141, 6))
+[2021-01-11 20:47:56.863] GAME: [�APLU "Miner"] The exosuit mining scanner initialized. (Lavaland Wastes (168, 141, 6))
+[2021-01-11 20:48:01.100] GAME: *no key*/(Lillie Quraishi) Lillie Quraishi name changed from Lillie Quraishi to Trixy (Unexplored Location (202, 195, 4))
+[2021-01-11 20:48:02.781] ACCESS: Login: Kosolov325 from 127.0.0.1-540227776 || BYOND v513.1528
+[2021-01-11 20:48:02.781] ACCESS: Mob Login: Kosolov325/(Kosolov325) was assigned to a /mob/dead/new_player
+[2021-01-11 20:48:11.816] GAME: Kosolov325/(Kosolov325) Client Kosolov325/(Kosolov325) has taken ownership of mob Kosolov325(/mob/dead/new_player) (start area (11, 174, 1))
+[2021-01-11 20:49:31.103] GAME: Backup Shuttle loaded at 143,212,1
+[2021-01-11 20:49:31.294] GAME: assault pod (Default) loaded at 144,213,1
+[2021-01-11 20:49:32.023] GAME: basic syndicate infiltrator loaded at 139,205,1
+[2021-01-11 20:49:32.601] GAME: fancy transport ferry loaded at 141,214,1
+[2021-01-11 20:49:32.942] GAME: Box Station Emergency Shuttle loaded at 142,205,1
+[2021-01-11 20:49:33.333] GAME: cargo ferry (Box) loaded at 144,210,1
+[2021-01-11 20:49:34.606] GAME: escape pod (Default) loaded at 146,214,1
+[2021-01-11 20:49:34.665] GAME: escape pod (Default) loaded at 146,214,1
+[2021-01-11 20:49:34.785] GAME: auxilliary base (Default) loaded at 143,212,1
+[2021-01-11 20:49:35.015] GAME: arrival shuttle (Box) loaded at 140,213,1
+[2021-01-11 20:49:35.212] GAME: mining shuttle (Box) loaded at 145,213,1
+[2021-01-11 20:49:35.328] GAME: labour shuttle (Box) loaded at 145,212,1
+[2021-01-11 20:49:35.437] GAME: escape pod (Default) loaded at 146,214,1
+[2021-01-11 20:49:35.505] GAME: escape pod (Default) loaded at 146,214,1
+[2021-01-11 20:49:35.568] GAME: lavaland Mining Elevator loaded at 145,214,1
+[2021-01-11 20:49:38.187] GAME: Hospital Ship loaded at 132,208,1
+[2021-01-11 20:49:38.837] GAME: Syndicate Fighter loaded at 145,212,1
+[2021-01-11 20:49:39.339] GAME: Small Freighter loaded at 137,211,1
+[2021-01-11 20:49:40.085] GAME: Pirate Cutter loaded at 136,210,1
+[2021-01-11 20:49:40.698] GAME: Syndicate Dropship loaded at 140,213,1
+[2021-01-11 20:49:41.051] VOTE: Roundtype vote started by server.
+[2021-01-11 20:50:28.164] ADMIN: Kosolov325/(Kosolov325) modified Space Station 13's icon from icons/blank_title.png to title1.png
+[2021-01-11 20:50:41.201] VOTE: <b>Roundtype Vote</b><b>Vote Result: Inconclusive - No Votes!</b>
+[2021-01-11 20:51:28.007] ACCESS: Logout: Kosolov325/(Kosolov325)
+[2021-01-11 20:51:28.009] GAME: Kosolov325[DC]/(Kosolov325) Kosolov325[DC]/(Kosolov325) is no longer owning mob Kosolov325(/mob/dead/new_player) (start area (11, 174, 1))

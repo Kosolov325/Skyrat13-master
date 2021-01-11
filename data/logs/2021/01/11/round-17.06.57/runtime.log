@@ -1,0 +1,40 @@
+[2021-01-11 20:06:57.187] Starting up round ID .
+ - -------------------------
+[2021-01-11 20:06:57.200] Running /tg/ revision: 2021-01-11
+ - HEAD: 2f5af0f28fd9bb9baac2fac2023d06b622a9a664
+[2021-01-11 20:07:43.702] ## WARNING: More or less map attributes pre-defined (1) than existent z-levels (0). Ignoring the larger. in code/modules/mapping/space_management/zlevel_manager.dm at line 10 src: Mapping usr: .
+[2021-01-11 20:07:43.706] Loading Box Station...
+[2021-01-11 20:08:01.090] Loaded Station in 17.3s!
+[2021-01-11 20:08:05.960] Loaded Lavaland in 4.7s!
+[2021-01-11 20:08:25.069] Ruin loader finished with 0 left to spend.
+[2021-01-11 20:08:30.815] Ruin loader finished with 0 left to spend.
+[2021-01-11 20:08:31.057] Ruin loader finished with 0 left to spend.
+[2021-01-11 20:09:12.447] No matching holodeck area found
+[2021-01-11 20:09:23.039] ## WARNING: HEY! LISTEN! 0.8 seconds were wasted processing 399 turf(s) (connected to 20961 other turfs) with atmos differences at round start.
+[2021-01-11 20:10:00.381] runtime error: No shuttle manipulator found.
+ - proc name: initial load (/datum/controller/subsystem/shuttle/proc/initial_load)
+ -   source file: shuttle.dm,95
+ -   usr: null
+ -   src: Shuttle (/datum/controller/subsystem/shuttle)
+ -   call stack:
+ - Shuttle (/datum/controller/subsystem/shuttle): initial load()
+ - Shuttle (/datum/controller/subsystem/shuttle): Initialize(726003)
+ - Master (/datum/controller/master): Initialize(10, 0, 1)
+ - 
+[2021-01-11 20:10:00.381] ## WARNING: No /obj/docking_port/mobile/arrivals placed on the map! in code/controllers/subsystem/shuttle.dm at line 83 src: Shuttle usr: .
+[2021-01-11 20:10:00.382] ## WARNING: No /obj/docking_port/mobile/emergency placed on the map! in code/controllers/subsystem/shuttle.dm at line 85 src: Shuttle usr: .
+[2021-01-11 20:10:00.384] ## WARNING: No /obj/docking_port/mobile/emergency/backup placed on the map! in code/controllers/subsystem/shuttle.dm at line 87 src: Shuttle usr: .
+[2021-01-11 20:10:00.386] ## WARNING: No /obj/docking_port/mobile/supply placed on the map! in code/controllers/subsystem/shuttle.dm at line 89 src: Shuttle usr: .
+[2021-01-11 20:10:00.504] Initializations complete within 182.3 seconds!
+[2021-01-11 20:11:15.881] runtime error: Regex fail: unmatched []
+ - proc name: New (/regex/New)
+ -   usr: Kosolov325 (/mob/dead/new_player)
+ -   src: /regex (/regex)
+ -   usr.loc: space (1,1,1) (/turf/open/space/basic)
+ -   call stack:
+ - /regex (/regex): New("\[.*\[", null)
+ - /datum/chatOutput (/datum/chatOutput): analyzeClientData("{\"connData\":\[{\"ckey\":\"ko...")
+ - /datum/chatOutput (/datum/chatOutput): Topic("_src_=chat&proc=analyzeClientD...", /list (/list))
+ - Kosolov325 (/client): Topic("_src_=chat&proc=analyzeClientD...", /list (/list), null)
+ - 
+[2021-01-11 20:11:54.383] Game start took 1.4s

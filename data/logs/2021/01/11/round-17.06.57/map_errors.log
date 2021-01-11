@@ -1,0 +1,13 @@
+[2021-01-11 20:09:12.465] Xenobiology Room Access at Xenobiology Lab (171, 83, 1) failed to find a valid airlock to cyclelink with!
+[2021-01-11 20:09:22.275] There are 399 active turfs at roundstart caused by a difference of the air between the adjacent turfs. You can see its coordinates using "Mapping -> Show roundstart AT list" verb (debug verbs required).
+[2021-01-11 20:09:23.616] build_pipeline(): /obj/machinery/atmospherics/pipe/simple/supply/hidden added to a pipenet while still having one. (pipes leading to the same spot stacking in one turf) Nearby: (91, 196, 1).
+[2021-01-11 20:09:23.617] build_pipeline(): /obj/machinery/atmospherics/pipe/simple/supply/hidden added to a pipenet while still having one. (pipes leading to the same spot stacking in one turf) Nearby: (92, 196, 1).
+[2021-01-11 20:09:23.641] build_pipeline(): /obj/machinery/atmospherics/pipe/simple/supply/hidden added to a pipenet while still having one. (pipes leading to the same spot stacking in one turf) Nearby: (93, 196, 1).
+[2021-01-11 20:09:23.641] build_pipeline(): /obj/machinery/atmospherics/pipe/manifold/supply/hidden added to a pipenet while still having one. (pipes leading to the same spot stacking in one turf) Nearby: (94, 196, 1).
+[2021-01-11 20:09:23.641] build_pipeline(): /obj/machinery/atmospherics/pipe/simple/supply/hidden added to a pipenet while still having one. (pipes leading to the same spot stacking in one turf) Nearby: (94, 197, 1).
+[2021-01-11 20:09:23.641] build_pipeline(): /obj/machinery/atmospherics/pipe/simple/supply/hidden added to a pipenet while still having one. (pipes leading to the same spot stacking in one turf) Nearby: (94, 195, 1).
+[2021-01-11 20:09:23.641] build_pipeline(): /obj/machinery/atmospherics/pipe/simple/supply/hidden added to a pipenet while still having one. (pipes leading to the same spot stacking in one turf) Nearby: (94, 198, 1).
+[2021-01-11 20:09:23.641] build_pipeline(): /obj/machinery/atmospherics/pipe/manifold/supply/hidden added to a pipenet while still having one. (pipes leading to the same spot stacking in one turf) Nearby: (94, 194, 1).
+[2021-01-11 20:09:23.641] build_pipeline(): /obj/machinery/atmospherics/pipe/manifold/supply/hidden added to a pipenet while still having one. (pipes leading to the same spot stacking in one turf) Nearby: (94, 199, 1).
+[2021-01-11 20:09:23.641] build_pipeline(): /obj/machinery/atmospherics/pipe/manifold/supply/hidden added to a pipenet while still having one. (pipes leading to the same spot stacking in one turf) Nearby: (94, 193, 1).
+[2021-01-11 20:09:23.641] build_pipeline(): further messages about pipenets will be suppressed

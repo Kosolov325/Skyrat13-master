@@ -1,0 +1,21 @@
+[2021-01-11 20:17:58.113] Starting up round ID .
+ - -------------------------
+[2021-01-11 20:21:51.088] Logs from logging subsystem:
+ - (2021-01-11 17:19:09) HREF: Kosolov325 (usr:Kosolov325[(11,174,1)]) : _src_=chat&proc=doneLoading
+ - (2021-01-11 17:19:09) HREF: Kosolov325 (usr:Kosolov325[(11,174,1)]) : 
+ - (2021-01-11 17:19:09) HREF: Kosolov325 (usr:Kosolov325[(11,174,1)]) : 
+ - (2021-01-11 17:19:09) HREF: Kosolov325 (usr:Kosolov325[(11,174,1)]) : _src_=chat&proc=analyzeClientData&param[cookie]={"connData":[{"ckey":"kosolov325","ip":"187.19.215.194","compid":"540227776"},{"ckey":"kosolov325","ip":"187.19.215.50","compid":"540227776"},{"ckey":"kosolov325","ip":"187.19.212.122","compid":"540227776"},{"ckey":"kosolov325","ip":"187.19.215.218","compid":"540227776"},{"ckey":"kosolov325","ip":"127.0.0.1","compid":"540227776"}]}
+ - (2021-01-11 17:19:22) HREF: Kosolov325 (usr:Kosolov325[(11,174,1)]) : Kosolov325 src=[mob_144];ready=1
+ - (2021-01-11 17:19:23) HREF: Kosolov325 (usr:Kosolov325[(11,174,1)]) : Kosolov325 src=[mob_144];show_preferences=1
+ - (2021-01-11 17:19:25) HREF: Kosolov325 (usr:Kosolov325[(11,174,1)]) : _src_=prefs;preference=name;task=random
+ - (2021-01-11 17:19:27) HREF: Kosolov325 (usr:Kosolov325[(11,174,1)]) : _src_=prefs;preference=save
+ - (2021-01-11 17:19:28) HREF: Kosolov325 (usr:Kosolov325[(11,174,1)]) : /datum/preferences close=1
+ - (2021-01-11 17:20:39) HREF: Kosolov325 (usr:Kosolov325[(11,174,1)]) : Kosolov325 src=[mob_144];show_preferences=1
+ - (2021-01-11 17:20:45) HREF: Kosolov325 (usr:Kosolov325[(11,174,1)]) : /datum/preferences close=1
+ - (2021-01-11 17:20:46) HREF: Kosolov325 (usr:Kosolov325[(11,174,1)]) : Vote src=[0x2100004f];vote=1
+ - (2021-01-11 17:20:47) HREF: Kosolov325 (usr:Kosolov325[(11,174,1)]) : Vote src=[0x2100004f];vote=close
+ - (2021-01-11 17:20:51) HREF: Kosolov325 (usr:Kosolov325[(11,174,1)]) : Vote src=[0x2100004f]
+ - (2021-01-11 17:20:53) HREF: Kosolov325 (usr:Kosolov325[(11,174,1)]) : Vote src=[0x2100004f];vote=close
+ - (2021-01-11 17:20:54) HREF: Kosolov325 (usr:Kosolov325[(11,174,1)]) : Vote src=[0x2100004f]
+ - (2021-01-11 17:20:55) HREF: Kosolov325 (usr:Kosolov325[(11,174,1)]) : Vote src=[0x2100004f];vote=2
+ - (2021-01-11 17:20:56) HREF: Kosolov325 (usr:Kosolov325[(11,174,1)]) : Vote src=[0x2100004f];vote=close

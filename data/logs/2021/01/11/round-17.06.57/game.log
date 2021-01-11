@@ -1,0 +1,61 @@
+[2021-01-11 20:06:57.155] Starting up round ID .
+ - -------------------------
+[2021-01-11 20:06:57.318] ADMIN: Loading Banlist
+[2021-01-11 20:06:57.318] ADMIN: Banlist is empty.
+[2021-01-11 20:06:57.319] ADMIN: Banlist missing base dir.
+[2021-01-11 20:07:43.611] GAME: Saved mode is 'extended'
+[2021-01-11 20:08:24.553] GAME: Hierophant's Arena loaded at 170,26,6
+[2021-01-11 20:08:24.580] GAME: Blood-Drunk Miner (Guidance) loaded at 144,84,6
+[2021-01-11 20:08:24.606] GAME: Blood-Drunk Miner (Hunter) loaded at 60,68,6
+[2021-01-11 20:08:24.632] GAME: Blood-Drunk Miner loaded at 99,203,6
+[2021-01-11 20:08:24.663] GAME: King Goat Boss Ruin loaded at 178,198,6
+[2021-01-11 20:08:24.699] GAME: Rogue's Arena loaded at 99,59,6
+[2021-01-11 20:08:24.753] GAME: Sif's Sword loaded at 144,186,6
+[2021-01-11 20:08:24.767] GAME: Pulsating Tumor loaded at 123,178,6
+[2021-01-11 20:08:24.878] GAME: Alien Nest loaded at 165,84,6
+[2021-01-11 20:08:24.880] GAME: Biodome Clown Planet loaded at 117,27,6
+[2021-01-11 20:08:24.974] GAME: Ash Walker Nest loaded at 157,143,6
+[2021-01-11 20:08:25.011] GAME: Ruin of Greed loaded at 29,172,6
+[2021-01-11 20:08:25.035] GAME: Summoning Ritual loaded at 135,125,6
+[2021-01-11 20:08:25.068] GAME: UFO Crash loaded at 129,26,6
+[2021-01-11 20:08:29.451] GAME: Abandoned Teleporter loaded at 134,219,4
+[2021-01-11 20:08:29.482] GAME: Whiteship Dock loaded at 69,163,7
+[2021-01-11 20:08:29.529] GAME: Asteroid 3 loaded at 205,191,2
+[2021-01-11 20:08:29.581] GAME: Dinner for Two loaded at 97,106,4
+[2021-01-11 20:08:29.734] GAME: Space Hermit loaded at 43,102,4
+[2021-01-11 20:08:29.814] GAME: Asteroid 5 loaded at 84,61,4
+[2021-01-11 20:08:29.888] GAME: Derelict 6 loaded at 71,115,3
+[2021-01-11 20:08:29.974] GAME: NT Medical Ship loaded at 33,116,3
+[2021-01-11 20:08:30.039] GAME: Unnamed Turreted Outpost loaded at 152,41,7
+[2021-01-11 20:08:30.075] GAME: Asteroid 1 loaded at 183,138,2
+[2021-01-11 20:08:30.211] GAME: A Giant Ball of Paper in Space loaded at 57,62,7
+[2021-01-11 20:08:30.333] GAME: DK Excavator 453 loaded at 82,194,7
+[2021-01-11 20:08:30.390] GAME: Roboticst Augmentation Facility loaded at 180,115,7
+[2021-01-11 20:08:30.476] GAME: Biological Storage Facility loaded at 133,32,4
+[2021-01-11 20:08:30.745] GAME: Crashed Ship loaded at 159,70,4
+[2021-01-11 20:08:30.814] GAME: Derelict 1 loaded at 169,202,2
+[2021-01-11 20:08:30.859] GAME: Mineable Asteroid 5 loaded at 28,210,1
+[2021-01-11 20:08:30.889] GAME: Mineable Asteroid 2 loaded at 59,23,1
+[2021-01-11 20:08:30.919] GAME: Dorm Roid loaded at 172,200,1
+[2021-01-11 20:08:30.939] GAME: Mineable Asteroid 3 loaded at 28,182,1
+[2021-01-11 20:08:30.951] GAME: Mineable Asteroid 1 loaded at 143,215,1
+[2021-01-11 20:08:30.963] GAME: Mineable Asteroid 1 loaded at 128,223,1
+[2021-01-11 20:08:30.986] GAME: Crab Roid loaded at 203,25,1
+[2021-01-11 20:08:30.998] GAME: Mineable Asteroid 1 loaded at 218,207,1
+[2021-01-11 20:08:31.031] GAME: Dead wizard Roid loaded at 53,197,1
+[2021-01-11 20:08:31.057] GAME: Maze Roid loaded at 190,211,1
+[2021-01-11 20:08:31.246] GAME: Box TEG loaded at 96,49,1
+[2021-01-11 20:08:31.673] GAME: Public Mining Base loaded at 1,1,6
+[2021-01-11 20:08:44.765] GAME: *no key*/(Byrne Rehman) Byrne Rehman name changed from Byrne Rehman to Pancake (Unexplored Location (62, 127, 4))
+[2021-01-11 20:09:33.893] ACCESS: Logout: Kosolov325
+[2021-01-11 20:10:41.968] VOTE: Roundtype vote started by server.
+[2021-01-11 20:10:42.744] ACCESS: Login: Kosolov325 from 127.0.0.1-540227776 || BYOND v513.1528
+[2021-01-11 20:10:42.744] ACCESS: Mob Login: Kosolov325/(Kosolov325) was assigned to a /mob/dead/new_player
+[2021-01-11 20:11:09.376] GAME: Kosolov325/(Kosolov325) Client Kosolov325/(Kosolov325) has taken ownership of mob Kosolov325(/mob/dead/new_player) (Space (1, 1, 1))
+[2021-01-11 20:11:43.217] VOTE: <b>Roundtype Vote</b><b>Vote Result: Inconclusive - No Votes!</b>
+[2021-01-11 20:11:52.772] ADMIN: Kosolov325 has started the game.
+[2021-01-11 20:11:54.321] GAME: *no key*/(Kosolov325) *no key*/(Kosolov325) is no longer owning mob Kosolov325(/mob/dead/new_player) (Space (1, 1, 1))
+[2021-01-11 20:11:54.321] ACCESS: Mob Login: Kosolov325/(Cosme Wise) was assigned to a /mob/living/carbon/human
+[2021-01-11 20:11:54.392] GAME: Kosolov325/(Cosme Wise) Client Kosolov325/(Cosme Wise) has taken ownership of mob (/mob/living/carbon/human) (Delivery Office (94, 124, 1))
+[2021-01-11 20:12:03.692] ACCESS: Logout: Kosolov325/(Cosme Wise)
+[2021-01-11 20:12:03.694] GAME: Kosolov325[DC]/(Cosme Wise) Kosolov325[DC]/(Cosme Wise) is no longer owning mob Cosme Wise(/mob/living/carbon/human) (Cargo Office (92, 119, 1))

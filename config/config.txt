@@ -387,7 +387,7 @@ ANNOUNCE_ADMIN_LOGOUT
 
 ## Map rotation
 ## You should edit maps.txt to match your configuration when you enable this.
-#MAPROTATION
+MAPROTATION
 
 ## TG-style map rotation
 ## By default, Citadel uses a more traditional method of map voting, where at the end of a round, players are given a full upfront vote.
@@ -397,7 +397,7 @@ ANNOUNCE_ADMIN_LOGOUT
 ## Map voting
 ## Allows players to vote for their preffered map
 ## When it's set to zero, the map will be randomly picked each round
-#ALLOW_MAP_VOTING 1
+ALLOW_MAP_VOTING 1
 
 ## Map voting type
 ## Determines what kind of vote the map vote is

@@ -1,0 +1,61 @@
+[2021-01-11 20:37:01.533] Starting up round ID .
+ - -------------------------
+[2021-01-11 20:37:01.617] ADMIN: Loading Banlist
+[2021-01-11 20:37:03.731] GAME: Saved mode is 'extended'
+[2021-01-11 20:37:21.853] ACCESS: Login: Kosolov325 from 127.0.0.1-540227776 || BYOND v513.1528
+[2021-01-11 20:37:21.853] ACCESS: Mob Login: Kosolov325/(Kosolov325) was assigned to a /mob/dead/new_player
+[2021-01-11 20:37:30.434] GAME: Kosolov325/(Kosolov325) Client Kosolov325/(Kosolov325) has taken ownership of mob Kosolov325(/mob/dead/new_player) (start area (11, 174, 1))
+[2021-01-11 20:37:36.603] GAME: Hierophant's Arena loaded at 147,117,6
+[2021-01-11 20:37:36.634] GAME: Blood-Drunk Miner (Guidance) loaded at 56,113,6
+[2021-01-11 20:37:36.673] GAME: Blood-Drunk Miner (Hunter) loaded at 83,71,6
+[2021-01-11 20:37:36.704] GAME: Blood-Drunk Miner loaded at 152,79,6
+[2021-01-11 20:37:36.740] GAME: King Goat Boss Ruin loaded at 39,148,6
+[2021-01-11 20:37:36.782] GAME: Rogue's Arena loaded at 187,132,6
+[2021-01-11 20:37:36.844] GAME: Sif's Sword loaded at 134,174,6
+[2021-01-11 20:37:36.855] GAME: Pulsating Tumor loaded at 56,193,6
+[2021-01-11 20:37:36.856] GAME: Biodome Clown Planet loaded at 143,125,6
+[2021-01-11 20:37:36.909] GAME: Ruined Pizza Party loaded at 143,36,6
+[2021-01-11 20:37:36.934] GAME: Fountain Hall loaded at 88,120,6
+[2021-01-11 20:37:36.976] GAME: Makeshift Shelter loaded at 165,89,6
+[2021-01-11 20:37:36.977] GAME: Biodome Winter loaded at 192,200,6
+[2021-01-11 20:37:37.027] GAME: Free Golem Ship loaded at 200,159,6
+[2021-01-11 20:37:37.042] GAME: Pulsating Tumor loaded at 206,203,6
+[2021-01-11 20:37:42.299] GAME: Abandoned Teleporter loaded at 156,150,3
+[2021-01-11 20:37:42.333] GAME: Whiteship Dock loaded at 159,126,7
+[2021-01-11 20:37:42.408] GAME: Aesthetic Outpost loaded at 194,79,7
+[2021-01-11 20:37:42.457] GAME: Empty Shell loaded at 111,30,8
+[2021-01-11 20:37:42.513] GAME: Dinner for Two loaded at 45,32,4
+[2021-01-11 20:37:42.615] GAME: Derelict 5 loaded at 72,118,3
+[2021-01-11 20:37:42.668] GAME: CF Corsair loaded at 88,59,3
+[2021-01-11 20:37:42.721] GAME: Asteroid 2 loaded at 110,208,4
+[2021-01-11 20:37:42.767] GAME: Asteroid 3 loaded at 169,167,4
+[2021-01-11 20:37:42.842] GAME: Derelict 1 loaded at 25,129,3
+[2021-01-11 20:37:43.164] GAME: Derelict Tradepost loaded at 131,50,8
+[2021-01-11 20:37:43.217] GAME: Salvation loaded at 78,170,7
+[2021-01-11 20:37:43.303] GAME: Derelict 6 loaded at 98,147,4
+[2021-01-11 20:37:43.371] GAME: Cleric's Den loaded at 124,103,7
+[2021-01-11 20:37:43.462] GAME: Asteroid 5 loaded at 175,87,8
+[2021-01-11 20:37:43.615] GAME: Feline-Human Combination Den loaded at 88,170,8
+[2021-01-11 20:37:43.655] GAME: Dorm Roid loaded at 47,193,2
+[2021-01-11 20:37:43.690] GAME: Mineable Asteroid 4 loaded at 217,170,2
+[2021-01-11 20:37:43.743] GAME: Mineable Asteroid 5 loaded at 36,211,2
+[2021-01-11 20:37:43.784] GAME: Maze Roid loaded at 191,206,2
+[2021-01-11 20:37:43.827] GAME: Dead wizard Roid loaded at 23,29,2
+[2021-01-11 20:37:43.865] GAME: Mineable Asteroid 2 loaded at 215,210,2
+[2021-01-11 20:37:43.886] GAME: Crab Roid loaded at 81,23,2
+[2021-01-11 20:37:43.927] GAME: Monitoring Roid loaded at 162,212,2
+[2021-01-11 20:37:43.948] GAME: Mineable Asteroid 3 loaded at 198,183,2
+[2021-01-11 20:37:43.959] GAME: Mineable Asteroid 1 loaded at 119,222,2
+[2021-01-11 20:37:44.085] GAME: Box Singulo loaded at 96,49,2
+[2021-01-11 20:37:44.554] GAME: Public Mining Base loaded at 1,1,6
+[2021-01-11 20:37:50.987] ACCESS: Logout: Kosolov325/(Kosolov325)
+[2021-01-11 20:37:50.988] GAME: Kosolov325[DC]/(Kosolov325) Kosolov325[DC]/(Kosolov325) is no longer owning mob Kosolov325(/mob/dead/new_player) (start area (11, 174, 1))
+[2021-01-11 20:37:53.486] GAME: [�Gygax] �Gygax created. (Ghost Cafe Outdoors (3, 210, 1))
+[2021-01-11 20:37:53.488] GAME: [�Gygax] �Gygax created. (Ghost Cafe Outdoors (4, 210, 1))
+[2021-01-11 20:37:53.489] GAME: [�Gygax] �Gygax created. (Ghost Cafe Outdoors (5, 210, 1))
+[2021-01-11 20:37:53.491] GAME: [�Gygax] �Gygax created. (Ghost Cafe Outdoors (6, 210, 1))
+[2021-01-11 20:37:53.493] GAME: [�Durand] �Durand created. (Ghost Cafe Outdoors (8, 210, 1))
+[2021-01-11 20:37:53.508] GAME: [�Durand] �Durand created. (Ghost Cafe Outdoors (8, 211, 1))
+[2021-01-11 20:37:53.524] GAME: [�Durand] �Durand created. (Ghost Cafe Outdoors (8, 212, 1))
+[2021-01-11 20:37:53.533] GAME: [�Durand] �Durand created. (Ghost Cafe Outdoors (8, 213, 1))
+[2021-01-11 20:38:08.735] GAME: [�APLU "Ripley"] �APLU "Ripley" created. (Mech Transport (95, 68, 3))
