@@ -19,13 +19,13 @@ $include skyrat/skyrat_config.txt
 # There are various options which are hard-locked for security reasons.
 
 ## Server name: This appears at the top of the screen in-game and in the BYOND hub. Uncomment and replace 'tgstation' with the name of your choice.
-SERVERNAME MaconhaStaiton 13
+SERVERNAME Maconha Staiton 13
 
 ## Server tagline: This will appear right below the server's title.
-# SERVERTAGLINE A generic TG-based server
+SERVERTAGLINE a Brazilian odyssey
 
 ## Server SQL name: This is the name used to identify the server to the SQL DB, distinct from SERVERNAME as it must be at most 32 characters.
-# SERVERSQLNAME tgstation
+SERVERSQLNAME maconhastation13
 
 ## Station name: The name of the station as it is referred to in-game. If commented out, the game will generate a random name instead.
 STATIONNAME Maconha Station 13
@@ -42,7 +42,7 @@ ROUND_END_COUNTDOWN 90
 ## Comment this out if you want to use the SQL based admin system, the legacy system uses admins.txt.
 ## You need to set up your database to use the SQL based system.
 ## This flag is automatically enabled if SQL_ENABLED isn't
-ADMIN_LEGACY_SYSTEM
+#ADMIN_LEGACY_SYSTEM
 
 ##Uncomment this to stop any admins loaded by the legacy system from having their rank edited by the permissions panel
 #PROTECT_LEGACY_ADMINS
@@ -55,7 +55,7 @@ ADMIN_LEGACY_SYSTEM
 #LOAD_LEGACY_RANKS_ONLY
 
 ## Comment this out if you want to use the SQL based banning system. The legacy systems use the files in the data folder. You need to set up your database to use the SQL based system.
-BAN_LEGACY_SYSTEM
+#BAN_LEGACY_SYSTEM
 
 ## Comment this out to stop locally connected clients from being given the almost full access !localhost! admin rank
 ENABLE_LOCALHOST_RANK
@@ -63,10 +63,10 @@ ENABLE_LOCALHOST_RANK
 ## Comment this out if you want to use the SQL based mentor system, the legacy system uses mentors.txt.
 ## You need to set up your database to use the SQL based system.
 ## This flag is automatically enabled if SQL_ENABLED isn't
-MENTOR_LEGACY_SYSTEM
+#MENTOR_LEGACY_SYSTEM
 
 #Mentors only see ckeys by default. Uncomment to have them only see mob name
-#MENTORS_MOBNAME_ONLY
+MENTORS_MOBNAME_ONLY
 
 ## Uncomment this entry to have certain jobs require your account to be at least a certain number of days old to select. You can configure the exact age requirement for different jobs by editing
 ## the minimal_player_age variable in the files in folder /code/game/jobs/job/.. for the job you want to edit. Set minimal_player_age to 0 to disable age requirement for that job.
@@ -76,12 +76,12 @@ MENTOR_LEGACY_SYSTEM
 #USE_AGE_RESTRICTION_FOR_JOBS
 
 ## Uncomment this to have the job system use the player's account creation date, rather than the when they first joined the server for job timers.
-#USE_ACCOUNT_AGE_FOR_JOBS
+USE_ACCOUNT_AGE_FOR_JOBS
 
 ## Unhash this to track player playtime in the database. Requires database to be enabled.
-#USE_EXP_TRACKING
+USE_EXP_TRACKING
 ## Unhash this to enable playtime requirements for head jobs.
-#USE_EXP_RESTRICTIONS_HEADS
+USE_EXP_RESTRICTIONS_HEADS
 ## Unhash this to override head jobs' playtime requirements with this number of hours.
 ## Leave this commented out to use the values defined in the job datums. Values in the datums are stored as minutes.
 #USE_EXP_RESTRICTIONS_HEADS_HOURS 3
@@ -151,7 +151,7 @@ LOG_MANIFEST
 # LOG_TWITTER
 
 ## Enable logging pictures
-# LOG_PICTURES
+LOG_PICTURES
 
 ## log virus and actions
 LOG_VIRUS
@@ -178,7 +178,7 @@ ID_CONSOLE_JOBSLOT_DELAY 30
 #ALLOW_VOTE_RESTART
 
 ## allow players to initate a mode-change start
-#ALLOW_VOTE_MODE
+ALLOW_VOTE_MODE
 
 ## min delay (deciseconds) between voting sessions (default 10 minutes)
 VOTE_DELAY 6000
@@ -249,7 +249,7 @@ CHECK_RANDOMIZER
 
 ## set a server location for world reboot. Don't include the byond://, just give the address and port.
 ## Don't set this to the same server, BYOND will automatically restart players to the server when it has restarted.
-SERVER 20.195.193.172:2505
+SERVER 191.232.192.69:2505
 
 ## forum address
 # FORUMURL https://citadel-station.net/forum/
@@ -299,7 +299,7 @@ SERVER 20.195.193.172:2505
 
 ## Uncomment to show a popup 'reply to' window to every non-admin that receives an adminPM.
 ## The intention is to make adminPMs more visible. (although I fnd popups annoying so this defaults to off)
-#POPUP_ADMIN_PM
+POPUP_ADMIN_PM
 
 ## Uncomment to allow special 'Easter-egg' events on special holidays such as seasonal holidays and stuff like 'Talk Like a Pirate Day' :3 YAARRR
 ALLOW_HOLIDAYS
@@ -322,7 +322,7 @@ TICKLAG 0.5
 #AUTOMUTE_ON
 
 ## Uncomment this to let players see their own notes (they can still be set by admins only)
-#SEE_OWN_NOTES
+SEE_OWN_NOTES
 
 ### Comment these two out to prevent notes fading out over time for admins.
 ## Notes older then this will start fading out.
@@ -356,7 +356,7 @@ NOTIFY_NEW_PLAYER_AGE 0
 
 ## Notify admins when a player connects if their byond account was created in the last X days
 ## Requires database
-NOTIFY_NEW_PLAYER_ACCOUNT_AGE 1
+NOTIFY_NEW_PLAYER_ACCOUNT_AGE 60
 
 ## Notify the irc channel when a new player makes their first connection
 ##	Requres database

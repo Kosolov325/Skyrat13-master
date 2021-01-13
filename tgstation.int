@@ -1,12 +1,12 @@
 // BEGIN_INTERNALS
 /*
 MAP_ZOOM: 1.000
-LAST_COMPILE_TIME: 1610396221
-DIR: _maps _maps\map_files _maps\RandomRuins\SpaceRuins _maps\templates code\__DEFINES code\_onclick code\_onclick\hud code\game code\game\machinery code\game\machinery\telecomms config config\title_screens config\title_screens\images 
+LAST_COMPILE_TIME: 1610411224
+DIR: _maps\map_files _maps\RandomRuins\SpaceRuins _maps\templates code code\__DEFINES code\_onclick code\_onclick\hud code\datums code\datums\components code\game code\game\machinery code\game\machinery\telecomms code\modules code\modules\client code\modules\station_goals modular_skyrat modular_skyrat\code modular_skyrat\code\game 
 AUTO_FILE_DIR: OFF
 MAP_ICON_TYPE: 0
 LAST_COMPILE_VERSION: 513.1528
-WINDOW: config\title_screens\images\wolvesingreyclothing.dmi
-FILE: config\title_screens\images\wolvesingreyclothing.dmi
+WINDOW: code\modules\station_goals\shield.dm;modular_skyrat\code\game\world.dm
+FILE: modular_skyrat\code\game\world.dm
 */
 // END_INTERNALS

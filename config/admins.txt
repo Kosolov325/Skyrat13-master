@@ -9,4 +9,6 @@
 ###############################################################################################
 
 maconha0420 = Host
-kosolov325 = Game Master
+zallyan = Game Master
+iunknow = Game Admin
+kosolov325 = Coder
